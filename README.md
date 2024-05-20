@@ -1,2 +1,3 @@
 # newRepo-demo
-This is my 2nd Repo
+This is my 2nd Git Repo.
+Author : Jatinder Kumar
